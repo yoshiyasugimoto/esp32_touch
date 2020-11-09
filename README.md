@@ -1,1 +1,2 @@
 # esp32_touch
+esp32の静電容量センサーとtouchRead関数のサンプル
